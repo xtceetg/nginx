@@ -1,3 +1,3 @@
-# My Awesome Book
+# Nginx 文档
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+翻译至nginx官方文档，供自己学习使用。有兴趣的朋友可以一起来翻译，学习。
